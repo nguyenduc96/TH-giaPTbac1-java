@@ -5,6 +5,8 @@ public class Main {
         float a;
         float b;
 
+        System.out.println("Giải phương trình a*x + b = 0");
+
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Nhập vào số a : ");
